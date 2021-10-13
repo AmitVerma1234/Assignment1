@@ -1,0 +1,11 @@
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (1, 'Kulas Light', 'Apt. 556','Gwenborough', '92998-3874');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (2, 'Victor Plains', 'Suite 879', 'Wisokyburgh', '90566-7771');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (3, 'Douglas Extension', 'Suite 847', 'McKenziehaven', '59590-4157');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (4, 'Hoeger Mall', 'Apt. 692', 'South Elvis', '53919-4257');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (5, 'Skiles Walks', 'Suite 351', 'Roscoeview', '33263');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (6, 'Norberto Crossing', 'Apt. 950', 'South Christy', '23505-1337');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (7, 'Rex Trail', 'Suite 280', 'Howemouth', '58804-1099');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (8, 'Ellsworth Summit', 'Suite 729', 'Aliyaview', '45169');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (9, 'Dayna Park', 'Suite 449', 'Bartholomebury', '76495-3109');
+INSERT INTO NEWDB.ADDRESS(user_id, street, suite, city, zipcode) VALUES (10, 'Kattie Turnpike', 'Suite 198', 'Lebsackbury', '31428-2261');
+commit;

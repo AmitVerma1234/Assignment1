@@ -1,0 +1,11 @@
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (1, 'Romaguera-Crona', 'Multi-layered client-server neural-net', 'harness real-time e-markets');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (2, 'Deckow-Crist', 'Proactive didactic contingency', 'synergize scalable supply-chains');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (3, 'Romaguera-Jacobson', 'Face to face bifurcated interface', 'e-enable strategic applications');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (4, 'Robel-Corkery', 'Multi-tiered zero tolerance productivity', 'transition cutting-edge web services');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (5, 'Keebler LLC', 'User-centric fault-tolerant solution', 'revolutionize end-to-end systems');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (6, 'Considine-Lockman', 'Synchronised bottom-line interface', 'e-enable innovative applications');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (7, 'Johns Group', 'Configurable multimedia task-force', 'generate enterprise e-tailers');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (8, 'Abernathy Group', 'Implemented secondary concept', 'e-enable extensible e-tailers');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (9, 'Yost and Sons', 'Switchable contextually-based project', 'aggregate real-time technologies');
+INSERT INTO NEWDB.COMPANY(user_id, name, catch_phrase, bs) VALUES (10, 'Hoeger LLC', 'Centralized empowering task-force', 'target end-to-end models');
+COMMIT;

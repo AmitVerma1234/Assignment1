@@ -1,0 +1,11 @@
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Leanne Graham', 'Bret', 'incere@april.biz', '1-770-736-8031 x56442', 'hildegard.org');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Ervin Howell', 'Antonette', 'Shanna@melissa.tv', '010-692-6593 x09125', 'anastasia.net');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Clementine Bauch', 'Samantha', 'Nathan@yesenia.net', '1-463-123-4447', 'ramiro.info');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Patricia Lebsack', 'Karianne', 'Julianne.OConner@kory.org', '493-170-9623 x156', 'kale.biz');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Chelsey Dietrich', 'Kamren', 'Lucio_Hettinger@annie.ca', '(254)954-1289', 'demarco.info');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Mrs. Dennis Schulist', 'Leopoldo_Corkery', 'Karley_Dach@jasper.info', '1-477-935-8478 x6430', 'ola.org');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Kurtis Weissnat', 'Elwyn.Skiles', 'Telly.Hoeger@billy.biz', '210.067.6132', 'elvis.io');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Nicholas Runolfsdottir V', 'Maxime_Nienow', 'Sherwood@rosamond.me', '586.493.6943 x140', 'jacynthe.com');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Glenna Reichert', 'Delphine', 'Chaim_McDermott@dana.io', '(775)976-6794 x41206', 'conrad.com');
+INSERT INTO NEWDB.USER(name, user_name, email, phone, website) VALUES('Clementina DuBuque', 'Moriah.Stanton', 'Rey.Padberg@karina.biz', '024-648-3804', 'ambrose.net');
+commit;
